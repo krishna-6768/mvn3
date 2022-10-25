@@ -1,4 +1,4 @@
-package krishna-package;
+package krishna-package
 
 import static org.junit.Assert.assertTrue;
 
